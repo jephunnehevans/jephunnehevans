@@ -6,7 +6,14 @@ I build at the intersection of technology, engineering, and design—developing 
 
 My long-term direction is to contribute to technology that advances human best interest and collective sustainability.
 
-- 🔭 I’m currently working on: A smart Waste Bin system
-- 🌱 I’m currently exploring: Wi-Fi modules
-- 💬 Ask me about: Embedded systems, basic physics, or the intersection of hardware and human experience.
-- 📫 How to reach me: evansjephunneh@gmail.com
+### 🛠️ What I'm focused on right now:
+- **Building:** Intelligent physical systems and embedded architectures.
+- **Documenting:** The realities of engineering—the failures, the trade-offs, and the lessons.
+- **Exploring:** The intersection of hardware constraints and human-centered design.
+
+### 🧭 Human-centered Engineering
+I believe technology must serve human dignity. I document my journey from fundamental physics to global interfaces, ensuring every system I build is an act of stewardship. 
+
+- 💬 **Ask me about:** Embedded systems, physics fundamentals, or the philosophy of Tech + Design.
+- 📫 **How to reach me:** [jephunnehevans@gmail.com](mailto:jephunnehevans@gmail.com) | [LinkedIn](https://linkedin.com/in/jephunnehevans)
+- 🌍 **Currently based in:** Niger, Nigeria.
